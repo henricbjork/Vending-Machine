@@ -1,0 +1,11 @@
+/Users/henricbjorkvall/Desktop/Yrgo/C#/RiderProjects/Project/Vending Machine/bin/Debug/netcoreapp3.1/Vending Machine
+/Users/henricbjorkvall/Desktop/Yrgo/C#/RiderProjects/Project/Vending Machine/bin/Debug/netcoreapp3.1/Vending Machine.deps.json
+/Users/henricbjorkvall/Desktop/Yrgo/C#/RiderProjects/Project/Vending Machine/bin/Debug/netcoreapp3.1/Vending Machine.runtimeconfig.json
+/Users/henricbjorkvall/Desktop/Yrgo/C#/RiderProjects/Project/Vending Machine/bin/Debug/netcoreapp3.1/Vending Machine.runtimeconfig.dev.json
+/Users/henricbjorkvall/Desktop/Yrgo/C#/RiderProjects/Project/Vending Machine/bin/Debug/netcoreapp3.1/Vending Machine.dll
+/Users/henricbjorkvall/Desktop/Yrgo/C#/RiderProjects/Project/Vending Machine/bin/Debug/netcoreapp3.1/Vending Machine.pdb
+/Users/henricbjorkvall/Desktop/Yrgo/C#/RiderProjects/Project/Vending Machine/obj/Debug/netcoreapp3.1/Vending Machine.csprojAssemblyReference.cache
+/Users/henricbjorkvall/Desktop/Yrgo/C#/RiderProjects/Project/Vending Machine/obj/Debug/netcoreapp3.1/Vending Machine.AssemblyInfoInputs.cache
+/Users/henricbjorkvall/Desktop/Yrgo/C#/RiderProjects/Project/Vending Machine/obj/Debug/netcoreapp3.1/Vending Machine.AssemblyInfo.cs
+/Users/henricbjorkvall/Desktop/Yrgo/C#/RiderProjects/Project/Vending Machine/obj/Debug/netcoreapp3.1/Vending Machine.dll
+/Users/henricbjorkvall/Desktop/Yrgo/C#/RiderProjects/Project/Vending Machine/obj/Debug/netcoreapp3.1/Vending Machine.pdb
